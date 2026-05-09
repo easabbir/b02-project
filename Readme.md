@@ -1,7 +1,7 @@
-# Project Title
+# Manual Software Testing project
 
 ## Description
-This is a brief description of what your project does. Explain the purpose and main functionality.
+I have written 145 testcases and 
 
 ## Features
 - Feature 1
